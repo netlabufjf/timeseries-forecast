@@ -6,3 +6,22 @@ data/
 related/
 
 \.env
+.vscode/settings.json
+images/prophet/c2g_trend.png
+images/prophet/c2g.png
+images/prophet/evo_trend.png
+images/prophet/evo.png
+images/prophet/modo_trend.png
+images/prophet/modo.png
+plots/Car2Go_Multivariable.png
+plots/Car2Go_Univariable.png
+plots/Evo_Multivariable.png
+plots/Evo_Univariable.png
+plots/Modo_Univariable.png
+plots/Modo_Multivariable.png
+plots/Car2Go_Multivariable.png
+plots/Car2Go_Univariable.png
+plots/Evo_Multivariable.png
+plots/Evo_Univariable.png
+plots/Modo_Multivariable.png
+plots/Modo_Univariable.png

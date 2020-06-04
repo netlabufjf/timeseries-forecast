@@ -1,0 +1,10 @@
+\begin{tabular}{lrrr}
+\toprule
+{} &        rmse &        mae &        r2 \\
+Serviço &             &            &           \\
+\midrule
+Evo     &  154.534412 &  85.982447 &  0.206369 \\
+Modo    &   25.316469 &  15.946474 &  0.143205 \\
+Car2Go  &   35.172855 &  24.560041 &  0.880889 \\
+\bottomrule
+\end{tabular}
